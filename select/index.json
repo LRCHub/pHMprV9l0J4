@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "夜凪",
+  "base_artist": "indigo la End",
+  "createdAt": "2025-12-03T11:37:23.375542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜凪 (feat. にしな)",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/01_夜凪_(feat._にしな)_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜凪 (feat. にしな)",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/02_夜凪_(feat._にしな)_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜凪",
+      "artist": "土岐麻子",
+      "has_synced": true,
+      "path": "select/03_夜凪_土岐麻子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜凪",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/04_夜凪_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜凪feat. にしな",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_夜凪feat._にしな_indigo_la_End.txt"
+    }
+  ]
+}
